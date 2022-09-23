@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "empezar con python y panda de alura",
+      "day": "agosto 5 a las 12.00",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "empezar con el portfolio en angular",
+      "day": "enero 10 a las 12.00",
+      "reminder": true
+    }
+  ]
+}
